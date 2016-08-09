@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Ukyoo!'s GitHub Pages"
 data:
 # profile:
 # history:
@@ -108,8 +109,6 @@ data:
 #     url:  ""
 ---
 
-- - -
-
 ### profile
 
 | key                     | value                                                       |
@@ -123,6 +122,12 @@ data:
 | Email                   | <ukyooo@gmail.com>                                          |
 | Skype                   | ukyooo                                                      |
 | Facebook Messenger      | [m.me/ukyooo](https://m.me/ukyooo)                          |
+
+- - -
+
+### history
+
+* [link](/history)
 
 - - -
 
