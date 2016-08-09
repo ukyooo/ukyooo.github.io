@@ -9,10 +9,10 @@ data:
       url:  "https://about.me/ukyooo"
     -
       name: "Bitly"
-      url:  "http://bit.ly/ukyooo"
+      url:  "https://bit.ly/ukyooo"
     -
       name: "Blogger"
-      url:  "http://ukyooo.blogspot.com/"
+      url:  "https://ukyooo.blogspot.com/"
     -
       name: "branded.me"
       url:  "https://branded.me/ukyooo"
