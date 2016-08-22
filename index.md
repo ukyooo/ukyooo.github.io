@@ -69,6 +69,9 @@ data:
       name: "MySpace"
       url:  "http://www.myspace.com/ukyooo"
     -
+      name: "note"
+      url:  "https://note.mu/ukyooo"
+    -
       name: "Path"
       url:  "https://www.path.com/ukyooo"
     -
