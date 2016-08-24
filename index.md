@@ -78,7 +78,7 @@ data:
       name: "Path"
       url:  "https://www.path.com/ukyooo"
     -
-      name: "繝輔か繝郁鳩"
+      name: "フォト蔵"
       url:  "http://photozou.jp/user/top/197755"
     -
       name: "Picasa"
@@ -102,7 +102,7 @@ data:
       name: "Ustream.TV"
       url:  "http://www.ustream.tv/user/ukyooo"
     -
-      name: "繝薙じ繧ｹ繧ｯ"
+      name: "ビザスク"
       url:  "https://service.visasq.com/@ukyooo"
     -
       name: "VOX"
