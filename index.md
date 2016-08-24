@@ -63,6 +63,9 @@ data:
       name: "LinkedIn"
       url:  "https://www.linkedin.com/in/ukyooo"
     -
+      name: "Medium"
+      url:  "https://medium.com/@ukyooo"
+    -
       name: "mixi"
       url:  "https://id.mixi.jp/ukyooo"
     -
@@ -75,7 +78,7 @@ data:
       name: "Path"
       url:  "https://www.path.com/ukyooo"
     -
-      name: "フォト蔵"
+      name: "繝輔か繝郁鳩"
       url:  "http://photozou.jp/user/top/197755"
     -
       name: "Picasa"
@@ -99,7 +102,7 @@ data:
       name: "Ustream.TV"
       url:  "http://www.ustream.tv/user/ukyooo"
     -
-      name: "ビザスク"
+      name: "繝薙じ繧ｹ繧ｯ"
       url:  "https://service.visasq.com/@ukyooo"
     -
       name: "VOX"
