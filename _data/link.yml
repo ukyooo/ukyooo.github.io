@@ -1,6 +1,10 @@
+# 文字化け対策
 -
   name: "about.me"
   url:  "https://about.me/ukyooo"
+-
+  name: "Bitbucket"
+  url:  "https://bitbucket.org/ukyooo/"
 -
   name: "Bitly"
   url:  "https://bit.ly/ukyooo"

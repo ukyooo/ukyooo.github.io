@@ -1,0 +1,28 @@
+    <!-- HEADER -->
+    {% include body.header.html %}
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+      {{ content }}
+
+      {% if page.data.link %}
+      <h3 id="link">link</h3>
+      <table>
+        <thead>
+          <tr><th>name</th><th>URL</th></tr>
+        </thead>
+        <tbody>
+          {% for item in site.data.link %}
+          <tr><td>{{ item.name }}</td><td><a href="{{ item.url }}" target="_blank">{{ item.url }}</a></td></tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      {% endif %}
+ 
+      </section>
+    </div>
+
+    <!-- FOOTER -->
+    {% include body.footer.html %}
+

@@ -1,57 +1,9 @@
 <!DOCTYPE html>
 <html>
-
   <head>
-    <meta charset="utf-8"/>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1"/>
-    <meta name="description" content="ukyooo.GitHub.io"/>
-    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/stylesheet.css"/>
-    <title>{{ page.title }}</title>
+    {% include head.html %}
   </head>
-
   <body>
-
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-      <header class="inner">
-      <!--
-      <a id="forkme_banner" href="https://github.com/ukyooo">View on GitHub</a>
-      -->
-      <h1 id="project_title" style="vertical-align: middle;">
-        <p style="vertical-align: middle;"><a href="/"><img src="/favicon.ico" border="0" width="32" height="32" alt="U!" /></a> Ukyoo! </p>
-      </h1>
-      <h2 id="project_tagline">Ukyoo!'s GitHub Pages</h2>
-      </header>
-    </div>
-
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-      {{ content }}
-
-      {% if page.data.link %}
-      <h3 id="link">link</h3>
-      <table>
-        <thead>
-          <tr><th>name</th><th>URL</th></tr>
-        </thead>
-        <tbody>
-          {% for item in site.data.link %}
-          <tr><td>{{ item.name }}</td><td><a href="{{ item.url }}" target="_blank">{{ item.url }}</a></td></tr>
-          {% endfor %}
-        </tbody>
-      </table>
-      {% endif %}
- 
-      </section>
-    </div>
-
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-      <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
-
+    {% include body.html %}
   </body>
 </html>
