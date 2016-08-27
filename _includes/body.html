@@ -1,6 +1,103 @@
     <!-- HEADER -->
     {% include body.header.html %}
 
+<script>
+var delimiter = '&'; 
+var dt = null;
+
+$(document).ready(function () {
+  $(function () {
+    // load
+    $.getJSON('/data.json', function (data) {
+      // console.log(data);
+      // console.log(data[0].data.length);
+
+      var rows = [];
+      $.each(data[0].data, function (i, row) {
+        if ($.inArray('link', row.tags) != -1) {
+          row.body = '<a href="%%link%%" target="_blank">%%link%%</a>'.replace(/%%link%%/g, row.body);
+        }
+        if ($.inArray('email', row.tags) != -1) {
+          row.body = '<a href="mailto:%%email%%">%%email%%</a>'.replace(/%%email%%/g, row.body);
+        }
+
+        var tags = [];
+        $.each(row.tags, function (j, tag) {
+          tags.push('<button type="button" class="btn btn-secondary btn-tag btn-tag-%%tag%%">%%tag%%</button>'.replace(/%%tag%%/g, tag));
+        });
+        tags = tags.join(' ');
+
+        rows.push([row.name, row.body, tags]);
+      });
+      // console.log(rows.length);
+
+      // shuffle
+      rows.sort(function () { return Math.round(Math.random()); });
+
+      // output
+      dt = $('#data').DataTable({
+        // fixedHeader: { header: true, footer: false },
+        paging: false,
+        // searching: false,
+        // ordering: false,
+        // order: [[0, 'asc']],
+        order: [],
+        data: rows
+      });
+
+      $('.btn-tag').on('click', tagButton);
+      $(window).on('hashchange', onChangeHash);
+      onChangeHash();
+    });
+  });
+});
+
+function onChangeHash(e) {
+  var tags = [];
+  var hash = location.hash.replace(/^#/, '');
+  if (hash != '') tags = hash.split(delimiter);
+  // console.log(tags);
+
+  // OFF
+  dt.search('').draw();
+  $('.btn-tag').removeClass('btn-primary');
+  $('.btn-tag').addClass('btn-secondary');
+  console.log(tags);
+
+  $.each(tags, function (i, tag) {
+    // ON
+    var c = '.btn-tag-' + tag;
+    // console.log(c);
+    $(c).removeClass('btn-secondary');
+    $(c).addClass('btn-primary');
+  });
+
+  // Search
+  // @TODO: 検索対象を tags のみに限定
+  if (tags.length) dt.search(tags.join(' ')).draw();
+}
+
+function tagButton(e) {
+  var o = this;
+  var tags = [];
+  var hash = location.hash.replace(/^#/, '');
+  if (hash != '') tags = hash.split(delimiter);
+  var i = $.inArray(o.textContent, tags);
+  if (i === -1) {
+    tags.push(o.textContent);
+  } else {
+    tags.splice(i, 1);
+  }
+  location.hash = tags.join(delimiter);
+}
+
+</script>
+
+<table id="data" class="display" cellspacing="0" width="100%">
+  <thead><tr><th>name</th><th>body</th><th>tags</th></tr></thead>
+  <tfoot><tr><th>name</th><th>body</th><th>tags</th></tr></tfoot>
+</table>
+
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
