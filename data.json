@@ -364,7 +364,8 @@
         "tags": [
           "history",
           "education",
-          "stage-5"
+          "stage-5",
+          "globis"
         ]
       },
       {
@@ -373,7 +374,8 @@
         "tags": [
           "history",
           "education",
-          "stage-6"
+          "stage-6",
+          "globis"
         ]
       },
       {
@@ -382,7 +384,8 @@
         "tags": [
           "history",
           "education",
-          "stage-6"
+          "stage-6",
+          "globis"
         ]
       },
       {
@@ -410,7 +413,8 @@
         "name": "Blogger",
         "body": "https://ukyooo.blogspot.com/",
         "tags": [
-          "link"
+          "link",
+          "blog"
         ]
       },
       {
@@ -431,21 +435,24 @@
         "name": "Eight",
         "body": "https://8card.net/p/ukyooo",
         "tags": [
-          "link"
+          "link",
+          "SNS"
         ]
       },
       {
         "name": "flickr",
         "body": "http://www.flickr.com/photos/ukyooo/",
         "tags": [
-          "link"
+          "link",
+          "SNS"
         ]
       },
       {
         "name": "Facebook",
         "body": "http://www.facebook.com/ukyooo",
         "tags": [
-          "link"
+          "link",
+          "SNS"
         ]
       },
       {
@@ -454,21 +461,24 @@
         "tags": [
           "link",
           "profile",
-          "contact"
+          "contact",
+          "SNS"
         ]
       },
       {
         "name": "Foursquare",
         "body": "http://foursquare.com/ukyooo",
         "tags": [
-          "link"
+          "link",
+          "SNS"
         ]
       },
       {
         "name": "FriendFeed",
         "body": "http://friendfeed.com/ukyooo",
         "tags": [
-          "link"
+          "link",
+          "SNS"
         ]
       },
       {
@@ -489,7 +499,8 @@
         "name": "Google+",
         "body": "https://profiles.google.com/ukyooo",
         "tags": [
-          "link"
+          "link",
+          "SNS"
         ]
       },
       {
@@ -517,14 +528,16 @@
         "name": "Instagram",
         "body": "https://instagram.com/ukyooo/",
         "tags": [
-          "link"
+          "link",
+          "SNS"
         ]
       },
       {
         "name": "LinkedIn",
         "body": "https://www.linkedin.com/in/ukyooo",
         "tags": [
-          "link"
+          "link",
+          "SNS"
         ]
       },
       {
@@ -538,14 +551,16 @@
         "name": "mixi",
         "body": "https://id.mixi.jp/ukyooo",
         "tags": [
-          "link"
+          "link",
+          "SNS"
         ]
       },
       {
         "name": "MySpace",
         "body": "http://www.myspace.com/ukyooo",
         "tags": [
-          "link"
+          "link",
+          "SNS"
         ]
       },
       {
@@ -608,7 +623,8 @@
         "name": "Twitter",
         "body": "https://twitter.com/ukyooo",
         "tags": [
-          "link"
+          "link",
+          "SNS"
         ]
       },
       {

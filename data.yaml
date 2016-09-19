@@ -284,6 +284,7 @@
         - history
         - education
         - stage-5
+        - globis
     -
       name: "2016年10月 - 12月"
       body: "グロービス経営大学院 単科生 マーケティング・経営戦略基礎"
@@ -291,6 +292,7 @@
         - history
         - education
         - stage-6
+        - globis
     -
       name: "2016年10月 - 12月"
       body: "グロービス経営大学院 単科生 ビジネス定量分析"
@@ -298,6 +300,7 @@
         - history
         - education
         - stage-6
+        - globis
     -
       name: "about.me"
       body: "https://about.me/ukyooo"
@@ -318,6 +321,7 @@
       body: "https://ukyooo.blogspot.com/"
       tags:
         - link
+        - blog
     -
       name: "branded.me"
       body: "https://branded.me/ukyooo"
@@ -333,16 +337,19 @@
       body: "https://8card.net/p/ukyooo"
       tags:
         - link
+        - SNS
     -
       name: "flickr"
       body: "http://www.flickr.com/photos/ukyooo/"
       tags:
         - link
+        - SNS
     -
       name: "Facebook"
       body: "http://www.facebook.com/ukyooo"
       tags:
         - link
+        - SNS
     -
       name: "Facebook Messenger"
       body: "https://m.me/ukyooo"
@@ -350,16 +357,19 @@
         - link
         - profile
         - contact
+        - SNS
     -
       name: "Foursquare"
       body: "http://foursquare.com/ukyooo"
       tags:
         - link
+        - SNS
     -
       name: "FriendFeed"
       body: "http://friendfeed.com/ukyooo"
       tags:
         - link
+        - SNS
     -
       name: "GitHub"
       body: "https://github.com/ukyooo"
@@ -375,6 +385,7 @@
       body: "https://profiles.google.com/ukyooo"
       tags:
         - link
+        - SNS
     -
       name: "Gravatar"
       body: "https://ja.gravatar.com/ukyooo"
@@ -395,11 +406,13 @@
       body: "https://instagram.com/ukyooo/"
       tags:
         - link
+        - SNS
     -
       name: "LinkedIn"
       body: "https://www.linkedin.com/in/ukyooo"
       tags:
         - link
+        - SNS
     -
       name: "Medium"
       body: "https://medium.com/@ukyooo"
@@ -410,11 +423,13 @@
       body: "https://id.mixi.jp/ukyooo"
       tags:
         - link
+        - SNS
     -
       name: "MySpace"
       body: "http://www.myspace.com/ukyooo"
       tags:
         - link
+        - SNS
     -
       name: "note"
       body: "https://note.mu/ukyooo"
@@ -460,6 +475,7 @@
       body: "https://twitter.com/ukyooo"
       tags:
         - link
+        - SNS
     -
       name: "Ustream.TV"
       body: "http://www.ustream.tv/user/ukyooo"
