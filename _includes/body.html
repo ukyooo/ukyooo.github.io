@@ -22,6 +22,7 @@ $(document).ready(function () {
       // console.log(data[0].data.length);
 
       var rows = [];
+      var tagsCount = [];
       $.each(data[0].data, function (i, row) {
         if ($.inArray('link', row.tags) != -1) {
           row.body = '<a href="%%link%%" target="_blank">%%link%%</a>'.replace(/%%link%%/g, row.body);
@@ -33,6 +34,11 @@ $(document).ready(function () {
         var tags = [];
         $.each(row.tags, function (j, tag) {
           tags.push('<button type="button" class="btn btn-secondary btn-tag btn-tag-%%tag%%">%%tag%%</button>'.replace(/%%tag%%/g, tag));
+          if (tag in tagsCount) {
+            tagsCount[tag]++;
+          } else {
+            tagsCount[tag] = 1;
+          }
         });
         tags = tags.join(' ');
 
@@ -58,6 +64,22 @@ $(document).ready(function () {
       $('.btn-tag').on('click', onClickTagButton);
       $(window).on('hashchange', onChangeHash);
       onChangeHash();
+
+      // タグクラウド 生成
+      // console.dir(tagsCount);
+      var tagsArray = [];
+      for (key in tagsCount) {
+        tagsArray.push({
+          text: key,
+          weight: tagsCount[key],
+          handlers: {
+            click: function () {
+              // console.dir(this.textContent);
+              location.hash = '!' + this.textContent;
+            }
+          }});
+      }
+      $('#tagCloud').jQCloud(tagsArray);
     });
   });
 });
@@ -108,6 +130,8 @@ function onClickTagButton(e) {
       <section id="main_content" class="inner">
 
       {{ content }}
+
+<div id="tagCloud" style="width: 680px; height: 120px;"></div>
 
 <table id="data" class="display" cellspacing="0" width="100%">
   <thead><tr><th>name</th><th>body</th><th>tags</th></tr></thead>
