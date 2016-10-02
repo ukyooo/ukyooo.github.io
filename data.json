@@ -279,7 +279,7 @@
       },
       {
         "name": "2011年04月",
-        "body": "個人事業主",
+        "body": "個人事業主 開業",
         "tags": [
           "history",
           "career",
@@ -366,6 +366,23 @@
           "education",
           "stage-5",
           "globis"
+        ]
+      },
+      {
+        "name": "2016年09月",
+        "body": "株式会社 ShowcaseGig 退社",
+        "tags": [
+          "history",
+          "career",
+          "stage-5"
+        ]
+      },
+      {
+        "name": "2016年10月",
+        "body": "HIU 入学",
+        "tags": [
+          "history",
+          "stage-6"
         ]
       },
       {
