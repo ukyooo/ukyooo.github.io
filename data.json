@@ -732,6 +732,30 @@
           "profile",
           "contact"
         ]
+      },
+      {
+        "name": "2008年10月",
+        "body": "Apple MacBook (MB466J/A)",
+        "tags": [
+          "Apple",
+          "MacBook"
+        ]
+      },
+      {
+        "name": "2010年04月",
+        "body": "Apple MacBook Pro (MC375J/A)",
+        "tags": [
+          "Apple",
+          "MacBook"
+        ]
+      },
+      {
+        "name": "2014年07月",
+        "body": "Apple MacBook Air (MD761xx/B)",
+        "tags": [
+          "Apple",
+          "MacBook"
+        ]
       }
     ]
   }
