@@ -315,6 +315,22 @@
         - stage-6
         - globis
     -
+      name: "2017年01月 - 03月"
+      body: "グロービス経営大学院 単科生 アカウンティング基礎"
+      tags:
+        - history
+        - education
+        - stage-6
+        - globis
+    -
+      name: "2017年01月 - 03月"
+      body: "グロービス経営大学院 単科生 組織行動とリーダーシップ"
+      tags:
+        - history
+        - education
+        - stage-6
+        - globis
+    -
       name: "about.me"
       body: "https://about.me/ukyooo"
       tags:
@@ -464,18 +480,28 @@
       tags:
         - link
     -
-      name: "Posterous"
+      name: Pinterest
+      body: "https://pinterest.com/ukyooo/"
+      tags:
+        - link
+    -
+      name: Posterous
       body: "http://ukyooo.posterous.com/"
       tags:
         - link
     -
-      name: "Qiita"
+      name: Qiita
       body: "http://qiita.com/ukyooo"
       tags:
         - link
     -
       name: "SPECH"
       body: "http://spech.me/ukyooo"
+      tags:
+        - link
+    -
+      name: "Speaker Deck"
+      body: "https://speakerdeck.com/ukyooo"
       tags:
         - link
     -
@@ -507,6 +533,11 @@
     -
       name: "Wantedly"
       body: "https://www.wantedly.com/users/105416"
+      tags:
+        - link
+    -
+      name: "WEAR"
+      body: "http://wear.jp/ukyooo/"
       tags:
         - link
     -
@@ -569,6 +600,12 @@
     -
       name: "2014年07月"
       body: "Apple MacBook Air (MD761xx/B)"
+      tags:
+        - Apple
+        - MacBook
+    -
+      name: "2016年11月"
+      body: "Apple MacBook Pro (xxxxxxxx)"
       tags:
         - Apple
         - MacBook
