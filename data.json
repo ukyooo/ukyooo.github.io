@@ -615,6 +615,13 @@
         ]
       },
       {
+        "name": "Periscope",
+        "body": "https://www.periscope.tv/ukyooo",
+        "tags": [
+          "link"
+        ]
+      },
+      {
         "name": "フォト蔵",
         "body": "http://photozou.jp/user/top/197755",
         "tags": [
@@ -686,6 +693,13 @@
         ]
       },
       {
+        "name": "Vine",
+        "body": "https://vine.co/u/1425186523195805696",
+        "tags": [
+          "link"
+        ]
+      },
+      {
         "name": "ビザスク",
         "body": "https://service.visasq.com/@ukyooo",
         "tags": [
@@ -716,6 +730,13 @@
       {
         "name": "YouTube",
         "body": "https://www.youtube.com/user/ukyooo",
+        "tags": [
+          "link"
+        ]
+      },
+      {
+        "name": "VALU",
+        "body": "https://valu.is/ukyooo",
         "tags": [
           "link"
         ]
