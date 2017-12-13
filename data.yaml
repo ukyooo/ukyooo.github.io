@@ -294,7 +294,14 @@
         - stage-5
     -
       name: "2016年10月"
-      body: "HIU 入学"
+      body: "UUUM 株式会社 業務委託契約 開始"
+      tags:
+        - history
+        - career
+        - stage-6
+    -
+      name: "2016年10月"
+      body: "HIU 入学 ( 1 ヶ月間のみ)"
       tags:
         - history
         - stage-6
@@ -314,6 +321,21 @@
         - education
         - stage-6
         - globis
+        - globis
+    -
+      name: "2016年12月"
+      body: "UUUM 株式会社 業務委託契約 終了"
+      tags:
+        - history
+        - career
+        - stage-6
+    -
+      name: "2017年01月"
+      body: "UUUM 株式会社 正規雇用契約 開始"
+      tags:
+        - history
+        - career
+        - stage-6
     -
       name: "2017年01月 - 03月"
       body: "グロービス経営大学院 単科生 アカウンティング基礎"
@@ -331,8 +353,27 @@
         - stage-6
         - globis
     -
+      name: "2017年03月"
+      body: "UUUM 株式会社 正規雇用契約 終了"
+      tags:
+        - history
+        - career
+        - stage-6
+    #   -
+    #     name: "2017年04月"
+    #     body: "株式会社 ユニラボ 業務委託契約 開始"
+    #     tags:
+    #       - history
+    #       - career
+    #       - stage-6
+    -
       name: "about.me"
       body: "https://about.me/ukyooo"
+      tags:
+        - link
+    -
+      name: "Amazon WishList"
+      body: "https://www.amazon.co.jp/wishlist/10JQ308MRC1CQ/"
       tags:
         - link
     -
@@ -558,6 +599,11 @@
     -
       name: VALU
       body: "https://valu.is/ukyooo"
+      tags:
+        - link
+    -
+      name: Peing
+      body: "https://peing.net/ukyooo"
       tags:
         - link
     -
