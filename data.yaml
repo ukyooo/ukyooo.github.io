@@ -417,6 +417,11 @@
       tags:
         - link
     -
+      name: coconala
+      body: https://coconala.com/users/25771
+      tags:
+        - link
+    -
       name: "CoffeeMeeting"
       body: "http://coffeemeeting.jp/ukyooo"
       tags:
