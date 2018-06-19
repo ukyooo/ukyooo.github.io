@@ -531,7 +531,7 @@
         ]
       },
       {
-        "name": "coconala",
+        "name": "ココナラ",
         "body": "https://coconala.com/users/25771",
         "tags": [
           "link"
@@ -540,6 +540,13 @@
       {
         "name": "CoffeeMeeting",
         "body": "http://coffeemeeting.jp/ukyooo",
+        "tags": [
+          "link"
+        ]
+      },
+      {
+        "name": "コズミカ",
+        "body": "https://cosmika.jp/users/391",
         "tags": [
           "link"
         ]
@@ -742,6 +749,13 @@
       {
         "name": "Speaker Deck",
         "body": "https://speakerdeck.com/ukyooo",
+        "tags": [
+          "link"
+        ]
+      },
+      {
+        "name": "タイムチケット",
+        "body": "https://www.timeticket.jp/ukyooo",
         "tags": [
           "link"
         ]

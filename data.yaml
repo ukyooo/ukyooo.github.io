@@ -412,18 +412,24 @@
       tags:
         - link
     -
-      name: CAMPFIRE
-      body: https://camp-fire.jp/profile/ukyooo
+      name: "CAMPFIRE"
+      body: "https://camp-fire.jp/profile/ukyooo"
       tags:
         - link
     -
-      name: coconala
-      body: https://coconala.com/users/25771
+      # name: "coconala"
+      name: "ココナラ"
+      body: "https://coconala.com/users/25771"
       tags:
         - link
     -
       name: "CoffeeMeeting"
       body: "http://coffeemeeting.jp/ukyooo"
+      tags:
+        - link
+    -
+      name: "コズミカ"
+      body: "https://cosmika.jp/users/391"
       tags:
         - link
     -
@@ -535,7 +541,7 @@
       tags:
         - link
     -
-      name: Periscope
+      name: "Periscope"
       body: "https://www.periscope.tv/ukyooo"
       tags:
         - link
@@ -550,17 +556,17 @@
       tags:
         - link
     -
-      name: Pinterest
+      name: "Pinterest"
       body: "https://pinterest.com/ukyooo/"
       tags:
         - link
     -
-      name: Posterous
+      name: "Posterous"
       body: "http://ukyooo.posterous.com/"
       tags:
         - link
     -
-      name: Qiita
+      name: "Qiita"
       body: "http://qiita.com/ukyooo"
       tags:
         - link
@@ -572,6 +578,12 @@
     -
       name: "Speaker Deck"
       body: "https://speakerdeck.com/ukyooo"
+      tags:
+        - link
+    -
+      # name: "Time Ticket"
+      name: "タイムチケット"
+      body: "https://www.timeticket.jp/ukyooo"
       tags:
         - link
     -
