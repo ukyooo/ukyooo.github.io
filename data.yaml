@@ -439,6 +439,11 @@
         - link
         - SNS
     -
+      name: "fever"
+      body: "https://fe-ver.jp/@ukyooo"
+      tags:
+        - link
+    -
       name: "flickr"
       body: "http://www.flickr.com/photos/ukyooo/"
       tags:
@@ -578,6 +583,11 @@
     -
       name: "Speaker Deck"
       body: "https://speakerdeck.com/ukyooo"
+      tags:
+        - link
+    -
+      name: "ストアカ"
+      body: "https://www.street-academy.com/users/210303"
       tags:
         - link
     -
