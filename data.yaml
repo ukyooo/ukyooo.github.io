@@ -524,6 +524,11 @@
       tags:
         - link
     -
+      name: "MENTA"
+      body: "https://menta.work/user/505"
+      tags:
+        - link
+    -
       name: "mixi"
       body: "https://id.mixi.jp/ukyooo"
       tags:
