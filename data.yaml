@@ -602,13 +602,14 @@
       tags:
         - link
     -
-      name: "Tumblr"
-      body: "http://qiita.com/ukyooo"
+      name: Tumblr
+      body: https://ukyooo.tumblr.com/
       tags:
         - link
+        - blog
     -
-      name: "Twitter"
-      body: "https://twitter.com/ukyooo"
+      name: Twitter
+      body: https://twitter.com/ukyooo
       tags:
         - link
         - SNS
