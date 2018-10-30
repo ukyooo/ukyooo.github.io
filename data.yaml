@@ -391,6 +391,11 @@
       tags:
         - link
     -
+      name: "Anchor"
+      body: "https://anchor.fm/ukyooo"
+      tags:
+        - link
+    -
       name: "Bitbucket"
       body: "https://bitbucket.org/ukyooo/"
       tags:
@@ -430,6 +435,11 @@
     -
       name: "コズミカ"
       body: "https://cosmika.jp/users/391"
+      tags:
+        - link
+    -
+      name: "Doorkeeper"
+      body: "https://www.doorkeeper.jp/users/ukyooo"
       tags:
         - link
     -
