@@ -438,6 +438,12 @@
       tags:
         - link
     -
+      # Ukyoo!'s Coubic
+      name: Coubic
+      body: https://coubic.com/ukyooo
+      tags:
+        - link
+    -
       name: "Doorkeeper"
       body: "https://www.doorkeeper.jp/users/ukyooo"
       tags:
