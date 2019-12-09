@@ -685,6 +685,11 @@
       tags:
         - link
     -
+      name: RapidAPI
+      body: https://api.rakuten.net/user/ukyooo
+      tags:
+        - link
+    -
       name: "氏名"
       body: "前田 宇享"
       tags:
