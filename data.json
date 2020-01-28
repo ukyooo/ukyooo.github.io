@@ -740,6 +740,13 @@
         ]
       },
       {
+        "name": "Peing",
+        "body": "https://peing.net/ukyooo",
+        "tags": [
+          "link"
+        ]
+      },
+      {
         "name": "Periscope",
         "body": "https://www.periscope.tv/ukyooo",
         "tags": [
@@ -782,6 +789,13 @@
         ]
       },
       {
+        "name": "RapidAPI",
+        "body": "https://api.rakuten.net/user/ukyooo",
+        "tags": [
+          "link"
+        ]
+      },
+      {
         "name": "SPECH",
         "body": "http://spech.me/ukyooo",
         "tags": [
@@ -803,8 +817,22 @@
         ]
       },
       {
+        "name": "TechFeed",
+        "body": "https://techfeed.io/main/global/people/5e2fbe515c56d57a53f633e4",
+        "tags": [
+          "link"
+        ]
+      },
+      {
         "name": "タイムチケット",
         "body": "https://www.timeticket.jp/ukyooo",
+        "tags": [
+          "link"
+        ]
+      },
+      {
+        "name": "TripAdvisor",
+        "body": "https://www.tripadvisor.jp/Profile/ukyooo",
         "tags": [
           "link"
         ]
@@ -828,6 +856,13 @@
       {
         "name": "Ustream.TV",
         "body": "http://www.ustream.tv/user/ukyooo",
+        "tags": [
+          "link"
+        ]
+      },
+      {
+        "name": "VALU",
+        "body": "https://valu.is/ukyooo",
         "tags": [
           "link"
         ]
@@ -870,34 +905,6 @@
       {
         "name": "YouTube",
         "body": "https://www.youtube.com/user/ukyooo",
-        "tags": [
-          "link"
-        ]
-      },
-      {
-        "name": "VALU",
-        "body": "https://valu.is/ukyooo",
-        "tags": [
-          "link"
-        ]
-      },
-      {
-        "name": "Peing",
-        "body": "https://peing.net/ukyooo",
-        "tags": [
-          "link"
-        ]
-      },
-      {
-        "name": "TripAdvisor",
-        "body": "https://www.tripadvisor.jp/Profile/ukyooo",
-        "tags": [
-          "link"
-        ]
-      },
-      {
-        "name": "RapidAPI",
-        "body": "https://api.rakuten.net/user/ukyooo",
         "tags": [
           "link"
         ]
@@ -986,6 +993,70 @@
         "tags": [
           "Apple",
           "MacBook"
+        ]
+      },
+      {
+        "name": "20YY年MM月",
+        "body": "Apple iPad mini 2",
+        "tags": [
+          "Apple",
+          "iPad"
+        ]
+      },
+      {
+        "name": "20YY年MM月",
+        "body": "Apple iPad mini 4",
+        "tags": [
+          "Apple",
+          "iPad"
+        ]
+      },
+      {
+        "name": "2008年10月",
+        "body": "Apple iPhone 3G",
+        "tags": [
+          "Apple",
+          "iPhone"
+        ]
+      },
+      {
+        "name": "2010年08月",
+        "body": "Apple iPhone 4",
+        "tags": [
+          "Apple",
+          "iPhone"
+        ]
+      },
+      {
+        "name": "20YY年MM月",
+        "body": "Apple iPhone 5",
+        "tags": [
+          "Apple",
+          "iPhone"
+        ]
+      },
+      {
+        "name": "20YY年MM月",
+        "body": "Apple iPhone 6s",
+        "tags": [
+          "Apple",
+          "iPhone"
+        ]
+      },
+      {
+        "name": "2017年10月",
+        "body": "Apple iPhone 7 (128 GB)",
+        "tags": [
+          "Apple",
+          "iPhone"
+        ]
+      },
+      {
+        "name": "2019年12月",
+        "body": "Apple iPhone 11 Pro (256 GB)",
+        "tags": [
+          "Apple",
+          "iPhone"
         ]
       }
     ]
