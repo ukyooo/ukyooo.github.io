@@ -508,40 +508,45 @@
         - link
         - SNS
     -
-      name: "Gravatar"
-      body: "https://ja.gravatar.com/ukyooo"
+      name: Gravatar
+      body: https://ja.gravatar.com/ukyooo
       tags:
         - link
     -
-      name: "GREE"
-      body: "http://gree.jp/ukyooo"
+      name: GREE
+      body: http://gree.jp/ukyooo
       tags:
         - link
     -
-      name: "Hatena"
-      body: "http://www.hatena.ne.jp/ukyooo/"
+      name: Hatena
+      body: http://www.hatena.ne.jp/ukyooo/
       tags:
         - link
     -
-      name: "Instagram"
-      body: "https://instagram.com/ukyooo/"
-      tags:
-        - link
-        - SNS
-    -
-      name: "LinkedIn"
-      body: "https://www.linkedin.com/in/ukyooo"
+      name: Instagram
+      body: https://instagram.com/ukyooo/
       tags:
         - link
         - SNS
     -
-      name: "Medium"
-      body: "https://medium.com/@ukyooo"
+      name: LAPRAS
+      body: https://lapras.com/public/RHVEXQW
       tags:
         - link
     -
-      name: "MENTA"
-      body: "https://menta.work/user/505"
+      name: LinkedIn
+      body: https://www.linkedin.com/in/ukyooo
+      tags:
+        - link
+        - SNS
+    -
+      name: Medium
+      body: https://medium.com/@ukyooo
+      tags:
+        - link
+    -
+      name: MENTA
+      body: https://menta.work/user/505
       tags:
         - link
     -
@@ -550,25 +555,25 @@
       tags:
         - link
     -
-      name: "mixi"
-      body: "https://id.mixi.jp/ukyooo"
+      name: mixi
+      body: https://id.mixi.jp/ukyooo
       tags:
         - link
         - SNS
     -
-      name: "MySpace"
-      body: "http://www.myspace.com/ukyooo"
+      name: MySpace
+      body: http://www.myspace.com/ukyooo
       tags:
         - link
         - SNS
     -
-      name: "note"
-      body: "https://note.mu/ukyooo"
+      name: note
+      body: https://note.mu/ukyooo
       tags:
         - link
     -
-      name: "Path"
-      body: "https://www.path.com/ukyooo"
+      name: Path
+      body: https://www.path.com/ukyooo
       tags:
         - link
     -
@@ -577,33 +582,33 @@
       tags:
         - link
     -
-      name: "Periscope"
+      name: Periscope
       body: https://www.periscope.tv/ukyooo
       tags:
         - link
     -
       name: "フォト蔵"
-      body: "http://photozou.jp/user/top/197755"
+      body: http://photozou.jp/user/top/197755
       tags:
         - link
     -
-      name: "Picasa"
-      body: "http://picasaweb.google.com/ukyooo"
+      name: Picasa
+      body: http://picasaweb.google.com/ukyooo
       tags:
         - link
     -
-      name: "Pinterest"
-      body: "https://pinterest.com/ukyooo/"
+      name: Pinterest
+      body: https://pinterest.com/ukyooo/
       tags:
         - link
     -
-      name: "Posterous"
-      body: "http://ukyooo.posterous.com/"
+      name: Posterous
+      body: http://ukyooo.posterous.com/
       tags:
         - link
     -
-      name: "Qiita"
-      body: "http://qiita.com/ukyooo"
+      name: Qiita
+      body: http://qiita.com/ukyooo
       tags:
         - link
     -
@@ -612,12 +617,12 @@
       tags:
         - link
     -
-      name: "SPECH"
+      name: SPECH
       body: http://spech.me/ukyooo
       tags:
         - link
     -
-      name: "Speaker Deck"
+      name: Speaker Deck
       body: https://speakerdeck.com/ukyooo
       tags:
         - link
@@ -671,27 +676,27 @@
         - link
     -
       name: "ビザスク"
-      body: "https://service.visasq.com/@ukyooo"
+      body: https://service.visasq.com/@ukyooo
       tags:
         - link
     -
       name: VOX
-      body: "http://ukyooo.vox.com/"
+      body: http://ukyooo.vox.com/
       tags:
         - link
     -
       name: Wantedly
-      body: "https://www.wantedly.com/users/105416"
+      body: https://www.wantedly.com/users/105416
       tags:
         - link
     -
       name: WEAR
-      body: "http://wear.jp/ukyooo/"
+      body: http://wear.jp/ukyooo/
       tags:
         - link
     -
       name: YouTube
-      body: "https://www.youtube.com/user/ukyooo"
+      body: https://www.youtube.com/user/ukyooo
       tags:
         - link
     -
